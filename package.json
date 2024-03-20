@@ -1,0 +1,39 @@
+{
+  "name": "smm-obta-kit",
+  "version": "1.0.0",
+  "description": "Obtain social media metrics with ease using a comprehensive toolkit for social media management and analytics.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thunderboomboom/smm-obta-kit"
+  },
+  "author": "thunderboomboom",
+  "license": "MIT",
+  "dependencies": {
+    "smm-obta-kit": "1.0.0",
+    "obta-verschange": "1.0.0",
+    "debug": "1.0.0",
+    "passport": "1.0.0",
+    "xml2js": "1.0.0",
+    "truffle": "1.0.0",
+    "web3-utils": "1.0.0",
+    "babel-core": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "lodash": "1.0.0",
+    "react-redux": "1.0.0",
+    "fs-extra": "1.0.0",
+    "socket.io": "1.0.0",
+    "solc": "1.0.0",
+    "mysql": "1.0.0",
+    "bcrypt": "1.0.0",
+    "commander": "1.0.0",
+    "moment": "1.0.0",
+    "cheerio": "1.0.0",
+    "sequelize": "1.0.0",
+    "express": "1.0.0",
+    "sinon": "1.0.0"
+  }
+}
